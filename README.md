@@ -1,1 +1,1 @@
-Application for choosing cars for rent in Ukraine
+Application for choosing cars for rent in Ukraine. Go
