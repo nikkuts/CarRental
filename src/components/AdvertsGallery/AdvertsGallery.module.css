@@ -1,0 +1,13 @@
+  .advertsGallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1184px;
+    gap: calc(1184 -(274*4))/3;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
